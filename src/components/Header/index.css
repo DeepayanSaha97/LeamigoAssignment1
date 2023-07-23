@@ -1,0 +1,46 @@
+.header-con {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: transparent;
+
+}
+
+.web-logo {
+    width: 240px;
+    height: 38px;
+}
+
+.header-items-con {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    color: #ffff;
+    font-weight: bold;
+    font-family:'Calibri';
+    font-size: 21px;
+}
+
+.header-items {
+    margin-right: 25px;
+    margin-top: 5px;
+}
+
+.flag-img {
+    height: 29px;
+    width: 33px;
+    margin-right: 25px;
+    margin-top: 12px;
+}
+
+.login-btn {
+    height: 44px;
+    width: 91px;
+    background-color: #f0a628;
+    border-radius: 10px;
+    border: none;
+    color: #ffff;
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 4px;
+}

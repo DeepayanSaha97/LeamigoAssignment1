@@ -1,0 +1,198 @@
+.footer-con {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.footer-heading {
+    align-self: flex-start;
+    color: #ffff;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 39px;
+
+}
+
+.footer-para {
+    color: #ffff;
+    font-weight: 500;
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-top: 0;
+}
+
+.trip-type-selection-con {
+    background-color: #ffff;
+    margin-left: 10px;
+    border-top-left-radius: 11px;
+    border-top-right-radius: 11px;
+    height: 46px;
+    width: 126px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.trip-type {
+    color: #4a595e;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.switch-btn {
+
+    height: 21px;
+}
+
+.input-fields-search-con {
+    background-color:  #A8B7C3;;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 9px;
+    height: 26vh;
+    width: 78vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.input-fields-con {
+    display: flex;
+    align-items: center;
+}
+
+.pickup-el-start-date-time-con {
+    margin-right: 10px;
+}
+
+.pickup-destination-el-con {
+    background-color: #ffff;
+    border-radius: 11px;
+    width: 325px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding-left: 6px;
+}
+
+.input-el {
+    border: none;
+    width: 280px;
+    margin-left: 8px;
+    outline: none;
+    font-weight: 600;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #686767;
+}
+
+.cross-icon {
+    margin-right: 9px;
+} 
+
+.date-time-el-con {
+    display: flex;
+}
+
+.date-picker-el {
+    background-color: #ffff;
+    border-radius: 11px;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding-left: 6px;
+    margin-top: 16px;
+    margin-right: 16px;
+}
+
+
+.date-input {
+    border: none;
+    outline: none;
+    font-weight: 600;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #292929;
+    padding-left: 10px;
+}
+
+
+.time-picker-el {
+    background-color: #ffff;
+    border-radius: 11px;
+    width: 105px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding-left: 6px;
+    margin-top: 16px;
+}
+
+.time-input {
+    font-size: 15px;
+    font-weight: 600;
+    color: #292929;
+    font-family: sans-serif;
+    border: none;
+    outline: none;
+}
+
+.arrow-icon {
+    margin-right: 12px;
+}
+
+.add-return-btn {
+    border: none;
+    background-color: transparent;
+    font-family: sans-serif;
+    color: #6e6e6e;
+}
+
+.traveller-count-type-dropdown-con {
+    height: 116px;
+    width: 144px;
+    background-color: #ffff;
+    border-radius: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-left: 4px;
+}
+
+
+.traveller-count-type-con {
+    display: flex;
+    align-items: center;
+}
+
+.traveller-count-type-text {
+    padding-left: 6px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.search-btn {
+    background-color: #1b9662;
+    height: 116px;
+    width: 144px;
+    border: none;
+    border-radius: 10px;
+    color: #ffff;
+    font-size: 17px;
+    font-family:Verdana;
+    font-weight: 500;
+}
+
+.dropdown-menu {
+    background-color: #ffff;
+    flex-wrap: wrap;
+    height: 100px;
+    width: 150px;
+}
+ 
